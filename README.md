@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Mahesh Ajmera!
 
-🎓 *2nd-year Computer Science Student | India*  
+🎓 *3nd-year Computer Science Student | India*  
 💻 Passionate about coding, problem-solving, and building simple but impactful projects.  
 🚀 Currently exploring *Python, C, and Java, and learning more about **DSA and open-source*.
 
